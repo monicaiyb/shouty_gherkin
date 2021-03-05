@@ -1,0 +1,17 @@
+{
+  "name": "shouty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^7.0.0-rc.0"
+  },
+  "devDependencies": {
+    "hamjest": "^3.7.1"
+  }
+}
